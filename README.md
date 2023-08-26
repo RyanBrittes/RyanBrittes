@@ -2,7 +2,7 @@
 <h4 align="left">I'm a Computer Engineering student. I am currently working at Unisys Informática. I'm improving myself in Data Science, Cybersecurity and Project Management.</h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanBrittes&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBrittes&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBrittes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryanbrittes/)
 <hr>
