@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Ryan Brittes</h2>
-<h4 align="left">I'm a Computer Engineering student. I am currently working at Unisys Informática. I'm improving myself in Data Science, Cybersecurity and Project Management.</h4>
+<h4 align="left">I'm a Computer Engineering student. I am currently working at Unisys Informática. I'm improving myself in Data Science, Artificial Intelligence and Quantum Computer.</h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanBrittes&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBrittes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
