@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Ryan Brittes</h2>
-<h4 align="left">I'm a Computer Engineering student. I am currently working at Unisys Informática. I'm improving myself in Data Science, Artificial Intelligence and Quantum Computer.</h4>
+<h4 align="left">I'm a Computer Engineering student. I am currently working at Unisys. I'm improving myself in Data Science, Artificial Intelligence and Quantum Computer.</h4>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryanbrittes/)
 
